@@ -55,6 +55,11 @@ To install the node packages
 npm install
 ```
 
+To install the wp-scripts
+```
+npm install wp-scripts
+```
+
 To build the production version of the plugin
 ```
 npm run build
